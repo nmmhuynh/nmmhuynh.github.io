@@ -2,13 +2,11 @@
 layout: profiles
 permalink: /people/
 title: people
-description: 
+description: some of my collaborators 
 nav: true
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   # additional field of more_info
   #  more_info: >
   #  <p>Your City, State 12345</p>
