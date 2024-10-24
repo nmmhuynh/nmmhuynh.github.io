@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office A14</p>
-    <p>Department of Mathematics</p>
+    <p>ngocmaimonica.huynh@unipv.it</p>
+    <p>A14, Dept. of Mathematics</p>
     <p>University of Pavia</p>
 
 news: false # includes a list of news items
