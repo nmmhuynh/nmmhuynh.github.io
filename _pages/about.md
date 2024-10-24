@@ -7,9 +7,10 @@ subtitle: Post-doctoral researcher at <a href='https://matematica.unipv.it/'>Uni
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office A14, Department of Mathematics</p>
+    <p>Office A14</p>
+    <p>Department of Mathematics</p>
     <p>University of Pavia</p>
 
 news: false # includes a list of news items
