@@ -49,9 +49,9 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
-bib_search: true
+search_enabled: false
+socials_in_search: false
+bib_search: false 
 
 # Dimensions
 max_width: 930px
@@ -87,7 +87,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: ngocmaimonica.huynh # your LinkedIn user name
+linkedin_username: ngocmaimonicahuynh912 # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: 0000-0003-3639-5844 # your ORCID ID
@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name:  # blog_name will be displayed in your blog page
-blog_description: # a simple whitespace theme for academics
+blog_description: a simple whitespace theme for academics
 permalink: # /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -295,7 +295,7 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  enabled: #[year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
   layouts:
     year: archive-year
     tag: archive-tag
@@ -316,7 +316,7 @@ scholar:
   last_name: [Huynh]
   first_name: [Ngoc Mai Monica]
 
-  style: numeric
+  style: apa
   locale: en
 
   source: /_bibliography/
@@ -373,7 +373,7 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3 # leave blank to always show all authors
+max_author_limit: 4 # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
@@ -635,15 +635,15 @@ jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
 jsonresume:
-  - basics
+  #- basics
   - work
   - education
   - publications
-  - projects
-  - volunteer
+  #- projects
+  #- volunteer
   - awards
-  - certificates
-  - skills
+  #- certificates
+  #- skills
   - languages
-  - interests
-  - references
+  #- interests
+  #- references
