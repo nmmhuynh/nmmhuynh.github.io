@@ -1,12 +1,12 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Ngoc Mai Monica Huynh
-    - name: Date of Birth
-      value: December 9, 1992
-    - name: Languages
-      value: English, Italian, Vietnamese
+#- title: General Information
+#  type: map
+#  contents:
+#    - name: Full Name
+#      value: Ngoc Mai Monica Huynh
+#    - name: Date of Birth
+#      value: December 9, 1992
+#    - name: Languages
+#      value: English, Italian, Vietnamese
 
 - title: Education
   type: time_table
@@ -15,7 +15,7 @@
       institution: Universita' degli Studi di Pavia (Pavia, Italy) and Universita' della Svizzera Italiana (Lugano, Switzerland)
       year: 2021
       description:
-#        - Description 1.
+         - Newton-Krylov dual-primal methods for implicit time discretizations in cardiac electrophysiology
 #        - Description 2.
 #        - title: Description 3.
 #          contents:
@@ -25,7 +25,7 @@
       institution: Universita' degli Studi di Milano (Milano, Italy)
       year: 2018
       description:
- #       - Description 1.
+        - Nonlinear FETI-DP methods for reaction-diffusion systems
  #       - Description 2.
 
 - title: Experience
@@ -35,6 +35,8 @@
       institution: Universita' degli Studi di Pavia (Pavia, Italy)
       year: 2021 - ongoing
       description:
+        - MICROCARD project. Design, theoretical analysis and numerical testing of efficient solvers and preconditioners for cell-by-cell models in cardiac electrophysiology
+        - NonSToP project (Nonlinear Solvers Towards Parallel computation). Development of efficient and parallel linear and nonlinear solvers for partial differential equations, with a focus on cardiac biomechanics applications and their performance on parallel computing platforms.
 #        - Description 1.
 #        - Description 2.
 #        - title: Description 3.
