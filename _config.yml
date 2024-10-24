@@ -314,7 +314,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Huynh]
-  first_name: [Ngoc Mai Monica]
+  first_name: [NMM] #[Ngoc Mai Monica]
 
   style: apa
   locale: en

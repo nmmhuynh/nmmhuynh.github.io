@@ -1,19 +1,16 @@
 "centofanti":
-  - firstname: ["Edoardo", "E.", "E.C.", "Edoardo Centofanti"]
+  - firstname: ["Edoardo", "E", "E.", "E.C.", "Edoardo Centofanti"]
     url: https://edoardo100.github.io/
 
 "barnafi":
-  - firstname: ["Nicolas", "N.", "N.A.B.", "Nicolas A. Barnafi"]
+  - firstname: ["Nicolas", "N.", "NA", "N.A.B.", "Nicolas A. Barnafi"]
     url: https://scholar.google.com/citations?user=qTr3xQ0AAAAJ&hl=en
 
 "scacchi":
-  - firstname: ["Simone", "S.", "S.S.", "Simone Scacchi"]
+  - firstname: ["Simone", "S.", "S", "S.S.", "Simone Scacchi"]
     url: http://www.mat.unimi.it/users/scacchi/
 
 "pavarino":
-  - firstname: ["Luca Franco", "Luca F.", "L.F.", "L.F.P.", "Luca F. Pavarino"]
+  - firstname: ["Luca Franco", "Luca F.", "LF", "L.F.", "L.F.P.", "Luca F. Pavarino"]
     url: https://sites.google.com/unipv.it/lucafp/home
 
-"botti":
-  - firstname: ["Sofia", "S.", "S.B.", "Sofia Botti"]
-    url: https://sites.google.com/universitadipavia.it/sofiabotti/home
