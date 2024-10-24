@@ -316,7 +316,7 @@ scholar:
   last_name: [Huynh]
   first_name: [Ngoc Mai Monica]
 
-  style: apa
+  style: numeric
   locale: en
 
   source: /_bibliography/
