@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post-doctoral researcher at <a href='#'>University of Pavia</a>. 
+subtitle: Post-doctoral researcher at <a href='https://matematica.unipv.it/'>University of Pavia</a>. 
 
 profile:
   align: right
