@@ -5,12 +5,15 @@
 @article{huynh2024gdsw,
 	title	 ={GDSW preconditioners for composite Discontinuous Galerkin discretizations of multicompartment reaction-diffusion problems},
 	author   ={Huynh, NMM and Pavarino, LF and Scacchi, S},
-	journal  ={Accepted for publication in CMAME},
+	journal  ={Comput. Meth. Appl. Math. Engrg.},
 	pages 	 ={},
+    volume   ={433},
+    doi      ={10.1016/j.cma.2024.117501},
     html     ={https://www.sciencedirect.com/science/article/pii/S0045782524007552},
     pdf      ={https://www.sciencedirect.com/science/article/pii/S0045782524007552/pdfft?md5=3647f09c75e0e67b132884239be6bfde&pid=1-s2.0-S0045782524007552-main.pdf},
 	year	 ={2024},
 	keywords ={journal},
+    bibtex_show ={true},
     abstract ={The aim of the present work is to design, analyze theoretically, and test numerically, a generalized Dryja-Smith-Widlund (GDSW) preconditioner for composite Discontinuous Galerkin discretizations of multicompartment parabolic reaction-diffusion equations, where the solution can exhibit natural discontinuities across the domain. We prove that the resulting preconditioned operator for the solution of the discrete system arising at each time step converges with a scalable and quasi-optimal upper bound for the condition number. The GDSW preconditioner is then applied to the EMI (Extracellular - Membrane - Intracellular) reaction-diffusion system, recently proposed to model microscopically the spatiotemporal evolution of cardiac bioelectrical potentials. Numerical tests validate the scalability and quasi-optimality of the EMI-GDSW preconditioner, and investigate its robustness with respect to the time-step size as well as jumps in the diffusion coefficients.}
 }
 @article{barnafi2024robust,
@@ -18,9 +21,13 @@
 	author   ={Barnafi, NA and Huynh, NMM and Pavarino, LF and Scacchi, S},
 	journal  ={Comput. Math. with Appl.},
 	pages 	 ={134--149},
-	volume ={167},
+	volume   ={167},
 	year	 ={2024},
-	keywords = {journal}
+	keywords = {journal},
+    bibtex_show ={true},
+    html     ={https://www.sciencedirect.com/science/article/abs/pii/S0898122124001731?via%3Dihub},
+    doi      ={10.1016/j.camwa.2024.04.014},
+    abstract ={In this work, we study the convergence and performance of nonlinear solvers for the Bidomain equations after decoupling the ordinary and partial differential equations of the cardiac system. Firstly, we provide a rigorous proof of the global convergence of Quasi-Newton methods, such as BFGS, and nonlinear Conjugate-Gradient methods, such as Fletcher-Reeves, for the Bidomain system, by analyzing an auxiliary variational problem under physically reasonable hypotheses. Secondly, we compare several nonlinear Bidomain solvers in terms of execution time, robustness with respect to the data and parallel scalability. Our findings indicate that Quasi-Newton methods are the best choice for nonlinear Bidomain systems, since they exhibit faster convergence rates compared to standard Newton-Krylov methods, while maintaining robustness and scalability. Furthermore, first-order methods also demonstrate competitiveness and serve as a viable alternative, particularly for matrix-free implementations that are well-suited for GPU computing.}
 }
 @article{huynh2024convergence,
     title    ={Convergence analysis for virtual element discretizations of the cardiac Bidomain model},
@@ -29,7 +36,12 @@
     volume   ={98(37)},
     pages    ={},
     year     ={2024},
-    keywords = {journal}
+    keywords = {journal},
+    bibtex_show ={true},
+    pdf      ={https://link.springer.com/epdf/10.1007/s10915-023-02435-8?sharing_token=ktJhVyycT-o1bMsOHQSUyPe4RwlQNchNByi7wbcMAY55lbDvlZM7enpktfpX8K8jk2h7q_mE2gt06-ZuEAu2lkHasC2XHUEx3wgG1lG3LgPeMEfvMfUVUGoXOhH-76zt8GGFq9nXGbFBkJMiSA7y1T2AvqF2c1ngCf7Lw-0NAcQ%3D},
+    html     ={https://link.springer.com/article/10.1007/s10915-023-02435-8},
+    doi      ={10.1007/s10915-023-02435-8},
+    abstract ={We propose here a convergence analysis for virtual element discretizations of the cardiac Bidomain model, a degenerate system of parabolic reaction-diffusion equations that models the propagation of the electric signal in the cardiac tissue. The virtual element method is a recent numerical technology that generalizes finite elements by considering polytopal computational grids, thus allowing more flexibility and accuracy in approximating complex computational domains. This can be an advantage when modeling for instance damaged cardiac tissues or structural heterogeneities. A previous similar study was performed in Anaya et al. (IMA J Numer Anal 40(2):1544-1576, 2020), where the propagation was modeled by means of a scalar nonlocal FitzHugh-Nagumo reaction-diffusion model. In the present work, we extend this analysis to the full semi-discrete Bidomain system, providing extensive numerical tests that validate the theoretical result on several structured and unstructured meshes.}
 }
 @article{huynh2023bddc,
 	title	 ={Convergence analysis of {BDDC} preconditioners for composite {DG} discretizations of the cardiac cell-by-cell model},
@@ -38,7 +50,12 @@
 	volume	 ={45(6)},
 	pages 	 ={A2836--A2857},
 	year	 ={2023},
-	keywords = {journal}
+	keywords = {journal},
+    bibtex_show ={true},
+    html     ={https://epubs.siam.org/doi/10.1137/22M1542532},
+    doi      ={10.1137/22M1542532},
+    pdf      ={},
+    abstract ={A balancing domain decomposition by constraints (BDDC) preconditioner is constructed and analyzed for the solution of composite discontinuous Galerkin discretizations of reaction-diffusion systems of ordinary and partial differential equations arising in cardiac cell-by-cell models. The latter are different from the classical bidomain and monodomain cardiac models based on homogenized descriptions of the cardiac tissue at the macroscopic level, and therefore they allow the representation of individual cardiac cells, cell aggregates, damaged tissues, and nonuniform distributions of ion channels on the cell membrane. The resulting discrete cell-by-cell models have discontinuous global solutions across the cell boundaries, and hence the proposed BDDC preconditioner is based on appropriate dual and primal spaces with additional constraints which transfer information between cells (subdomains) without influencing the overall discontinuity of the global solution. A scalable convergence rate bound is proved for the resulting BDDC cell-by-cell preconditioned operator, while numerical tests validate this bound and investigate its dependence on the discretization parameters.}
 }
 @article{huynh2022robust,
 	title	  ={Scalable and robust dual-primal Newton-Krylov deluxe solvers for cardiac electrophysiology with biophysical ionic models},
@@ -47,7 +64,12 @@
 	volume ={50(4)},
 	pages 	  ={1029--1052},
 	year	  ={2022},
-	keywords = {journal}
+	keywords = {journal},
+    bibtex_show ={true},
+    html      ={https://link.springer.com/article/10.1007/s10013-022-00576-1},
+    doi       ={10.1007/s10013-022-00576-1},
+    pdf       ={https://link.springer.com/content/pdf/10.1007/s10013-022-00576-1.pdf},
+    abstract  ={The focus of this work is to provide an extensive numerical study of the parallel efficiency and robustness of a staggered dual-primal Newton-Krylov deluxe solver for implicit time discretizations of the Bidomain model. This model describes the propagation of the electrical impulse in the cardiac tissue, by means of a system of parabolic reaction-diffusion partial differential equations. This system is coupled to a system of ordinary differential equations, modeling the ionic currents dynamics. A staggered approach is employed for the solution of a fully implicit time discretization of the problem, where the two systems are solved successively. The arising nonlinear algebraic system is solved with a Newton-Krylov approach, preconditioned by a dual-primal Domain Decomposition algorithm in order to improve convergence. The theoretical analysis and numerical validation of this strategy has been carried out in Huynh et al. (SIAM J. Sci. Comput. 44, B224-B249, 2022) considering only simple ionic models. This paper extends this study to include more complex biophysical ionic models, as well as the presence of ischemic regions, described mathematically by heterogeneous diffusion coefficients with possible discontinuities between subregions. The results of several numerical experiments show robustness and scalability of the proposed parallel solver.}
 }
 @article{huynh2022parallel,
 	title	 ={Parallel Newton-Krylov-BDDC and FETI-DP deluxe solvers for implicit time discretizations of the cardiac Bidomain equations},
@@ -56,7 +78,12 @@
 	volume 	 ={44(2)},
 	pages 	 ={B224--B249},
 	year	 ={2022},
-	keywords = {journal}
+	keywords = {journal},
+    bibtex_show ={true},
+    html     ={https://epubs.siam.org/doi/10.1137/20M1353848},
+    doi      ={10.1137/20M1353848},
+    pdf      ={},
+    abstract ={Two novel parallel Newton--Krylov balancing domain decomposition by constraints (BDDC) and dual-primal finite element tearing and interconnecting (FETI-DP) solvers with deluxe scaling are constructed, analyzed, and tested numerically for implicit time discretizations of the three-dimensional bidomain system of equations. This model represents the most advanced mathematical description of the cardiac bioelectrical activity, and it consists of a degenerate system of two nonlinear reaction-diffusion partial differential equations (PDEs), coupled with a stiff system of ordinary differential equations (ODEs). A finite element discretization in space and a segregated implicit discretization in time, based on decoupling the PDEs from the ODEs, yields at each time step the solution of a nonlinear algebraic system. The Jacobian linear system at each Newton iteration is solved by a Krylov method, accelerated by BDDC or FETI-DP preconditioners, both augmented with the recently introduced deluxe scaling of the dual variables. A polylogarithmic convergence rate bound is proven for the resulting parallel Bidomain solvers. Extensive numerical experiments on Linux clusters up to two thousand processors confirm the theoretical estimates, showing that the proposed parallel solvers are scalable and quasi-optimal.}
 }
 @article{huynh2022newton,
 	title	  ={Newton-Krylov-BDDC deluxe solvers for non-symmetric fully implicit time discretizations of the Bidomain model},
@@ -65,14 +92,21 @@
 	volume    ={152(4)},
 	pages = {841--879},
 	year	  ={2022},
-	keywords = {journal}
+	keywords = {journal},
+    bibtex_show ={true},
+    html      ={https://link.springer.com/article/10.1007/s00211-022-01331-x},
+    doi       ={10.1007/s00211-022-01331-x},
+    pdf       ={https://link.springer.com/content/pdf/10.1007/s00211-022-01331-x.pdf},
+    abstract  ={A novel theoretical convergence rate estimate for a Balancing Domain Decomposition by Constraints algorithm is proven for the solution of the cardiac bidomain model, describing the propagation of the electric impulse in the cardiac tissue. The non-linear system arises from a fully implicit time discretization and a monolithic solution approach. The preconditioned non-symmetric operator is constructed from the linearized system arising within the Newton-Krylov approach for the solution of the non-linear problem; we theoretically analyze and prove a convergence rate bound for the Generalised Minimal Residual iterations' residual. The theory is confirmed by extensive parallel numerical tests, widening the class of robust and efficient solvers for implicit time discretizations of the bidomain model.}
 }
 @article{huynh2021newtonkrylov,
 	title	  ={Newton-Krylov dual-primal methods for implicit time discretizations in cardiac electrophysiology},
 	author	  ={Huynh, NMM},
 	journal	  ={PhD thesis},
 	year	  ={2021},
-	keywords = {thesis}
+	keywords = {thesis},
+    bibtex_show ={true},
+    pdf       = {https://iris.unipv.it/bitstream/11571/1447636/2/tesi.pdf}
 }
 @inproceedings{chegini2023efficient,
 	title	 ={Efficient numerical methods for simulating cardiac electrophysiology with cellular resolution},
@@ -82,7 +116,11 @@
 	volume		  = {},
 	year		  = {2023},
 	URL 		  = {},
-	keywords = {proceeding}
+	keywords = {proceeding},
+    bibtex_show ={true},
+    html        = {https://inria.hal.science/hal-04407791/},
+    pdf         = {https://inria.hal.science/hal-04407791v1/document},
+    abstract    = {The cardiac extracellular-membrane-intracellular (EMI) model enables the precise geometrical representation and resolution of aggregates of individual myocytes. As a result, it not only yields more accurate simulations of cardiac excitation compared to homogenized models but also presents the challenge of solving much larger problems. In this paper, we introduce recent advancements in three key areas: (i) the creation of artificial, yet realistic grids, (ii) efficient higher-order time stepping achieved by combining low-overhead spatial adaptivity on the algebraic level with progressive spectral deferred correction methods, and (iii) substructuring domain decomposition preconditioners tailored to address the complexities of heterogeneous problem structures. The efficiency gains of these proposed methods are demonstrated through numerical results on cardiac meshes of different sizes.}
 }
 @inproceedings{barnafi2021parallel,
 	author 		  = {Barnafi, NA and Huynh, NMM and Pavarino, LF and Scacchi, S},
@@ -92,7 +130,12 @@
 	volume		  = {50(20)},
 	year		  = {2022},
 	URL 		  = {},
-	keywords = {proceeding}
+	keywords = {proceeding},
+    bibtex_show ={true},
+    html          = {https://www.sciencedirect.com/science/article/pii/S2405896322012812},
+    doi           = {10.1016/j.ifacol.2022.09.093},
+    pdf           = {https://www.sciencedirect.com/science/article/pii/S2405896322012812/pdf?md5=5fb31cd274e8a73b1d7535fa9f7566e2&pid=1-s2.0-S2405896322012812-main.pdf},
+    abstract      = {This investigation focuses on nonlinear solvers for the Bidomain model, a nonlinear system of parabolic reaction-diffusion equations describing the bioelectrical activity of the myocardium. Staggered fully implicit time discretizations of the Bidomain finite element semi-discrete problem lead to nonlinear algebraic systems to be solved at each time step. This work compares several nonlinear solvers, such as inexact-Newton, quasi-Newton and nonlinear Generalized Minimal Residual methods, for the solution of these nonlinear systems. Parallel experiments show strong scalability and robustness of the resulting solver with respect to the number of degrees of freedom of the discrete problem. These preliminary results pave the way for further studies of nonlinear solvers for cardiac electrophysiology models that can attain better parallel efficiency than the standard Newton method.}
 }
 @inproceedings{huynh2022dual,
 	author 		  = {Huynh, NMM and Pavarino, LF and Scacchi, S},
@@ -102,7 +145,9 @@
 	pages 		  = {689-696},
 	publisher	  = {Springer},
 	URL 		  = {},
-	keywords = {proceeding}
+	keywords = {proceeding},
+    bibtex_show ={true},
+    pdf         ={http://www.ddm.org/DD26/proceedings/649.pdf}
 }
 @inproceedings{huynh2021scalable,
 	title		= {Scalable Newton-Krylov-BDDC and FETI-DP Deluxe Solvers for Decoupled Cardiac Reaction-Diffusion Models},
@@ -110,7 +155,11 @@
 	booktitle	= {14th WCCM-ECCOMAS Congress 2020},
 	volume	    = {400},
 	year		= {2021},
-	keywords = {proceeding}
+	keywords = {proceeding},
+    bibtex_show ={true},
+    html        ={https://www.scipedia.com/public/Huynh_2021a},
+    pdf         ={https://www.scipedia.com/action/sciepedia_articles/generate_epub?a=247007&type=pdfpdf&__elgg_ts=1730732263&__elgg_token=avqY5XIykf963Tqw7OQ-6w},
+    abstract    ={Two parallel Newton-Krylov Balancing Domain Decomposition by Constraints (BDDC) and Dual-Primal Finite Element Tearing and Interconnecting (FETI-DP) solvers are analyzed and numerically studied for implicit time discretizations of the Bidomain equations. This system models the cardiac bioelectrical activity and it consists of a degenerate system of two non-linear reaction-diffusion partial differential equations (PDEs), coupled with a stiff system of ordinary differential equations (ODEs). A non-linear algebraic system arises from a finite element discretization in space and an implicit discretization in time, based on decoupling the PDEs from the ODEs. Within each Newton iteration, the Jacobian linear system is solved by a Krylov method, accelerated by BDDC or FETI-DP preconditioners, both augmented with the recently introduced deluxe scaling of the dual variables. Several parallel numerical tests on Linux clusters confirm a novel polylogarithmic convergence rate bound, showing scalability and quasi-optimality of the proposed solvers.}
 }
 
 \end{filecontents}
