@@ -8,6 +8,22 @@
 #    - name: Languages
 #      value: English, Italian, Vietnamese
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Post doctoral fellow
+      institution: Universita' degli Studi di Pavia (Pavia, Italy)
+      year: 2021 - ongoing
+      description:
+        - MICROCARD project. Design, theoretical analysis and numerical testing of efficient solvers and preconditioners for cell-by-cell models in cardiac electrophysiology
+        - NonSToP project (Nonlinear Solvers Towards Parallel computation). Development of efficient and parallel linear and nonlinear solvers for partial differential equations, with a focus on cardiac biomechanics applications and their performance on parallel computing platforms.
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+
 - title: Education
   type: time_table
   contents:
@@ -28,21 +44,6 @@
         - Nonlinear FETI-DP methods for reaction-diffusion systems
  #       - Description 2.
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Post doctoral fellow
-      institution: Universita' degli Studi di Pavia (Pavia, Italy)
-      year: 2021 - ongoing
-      description:
-        - MICROCARD project. Design, theoretical analysis and numerical testing of efficient solvers and preconditioners for cell-by-cell models in cardiac electrophysiology
-        - NonSToP project (Nonlinear Solvers Towards Parallel computation). Development of efficient and parallel linear and nonlinear solvers for partial differential equations, with a focus on cardiac biomechanics applications and their performance on parallel computing platforms.
-#        - Description 1.
-#        - Description 2.
-#        - title: Description 3.
-#          contents:
-#            - Sub-description 1.
-#            - Sub-description 2.
     #- title: Visiting Professor
     #  institution: California Institute of Technology, Pasadena, California, US
     #  year: 1933
