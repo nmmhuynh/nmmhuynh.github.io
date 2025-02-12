@@ -27,16 +27,16 @@ During my doctoral training, I had the opportunity to coordinate [PhD informal s
 
 <br>
 
-#### NEW ARXIV OUT!
+##### NEW ARXIV OUT!
 Checkout our latest paper with the analysis of a [3D BDDC preconditioner for the cardiac EMI model](http://arxiv.org/abs/2502.07722).
 
-#### MEET ME AT THE UPCOMING CONFERENCES:
+##### MEET ME AT THE UPCOMING CONFERENCES:
 1. [COUPLED PROBLEMS 2025](https://coupled2025.cimne.com/). May 25-28, 2025, Villasimius - Sardinia (Italy).
 2. [Math2Product 2025](https://www.m2p2025.com/M2P2025). June 4-6, 2025, Valencia (Spain).
 3. [Domain Decomposition conference](https://www.dd29.polimi.it/). June 23-27, 2025, Milano (Italy).
 4. [Enumath 2025](https://www.enumath2025.eu/). September 1-5, 2025, Heidelberg (Germany).
 
-#### !! UPCOMING EVENT
+##### !! UPCOMING EVENT
 **Intensive Summer School on Computational Cardiology: theory, applications and new trends**, June 11-13 2025 (Milano). 
 
 For info and registration, visit our [website](https://sites.google.com/view/isscc/home?authuser=0).
