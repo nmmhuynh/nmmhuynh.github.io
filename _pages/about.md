@@ -24,3 +24,20 @@ Besides my daily desk time, I try to actively promote initiatives among young re
 I have organized first-hand three young international workshops, focusing on [cardiac modeling](https://mate.unipv.it/workshop-young-cardiac/) as well as more generic industrial applications ([2022](https://mate.unipv.it/matcomp22/), [2023](https://mate.unipv.it/matcomp23/) and [2024](https://sites.google.com/universitadipavia.it/compmat-spring-workshop/compmat-2024?authuser=0)).
 
 During my doctoral training, I had the opportunity to coordinate [PhD informal seminars](https://euler.unipv.it/seminaridott/) and to take part in bigger organizations such as the VPHi PhD student committee, organizing and chairing [online webinars](https://www.vph-institute.org/webinar.html).
+
+<br>
+
+#### NEW ARXIV OUT!
+Checkout our latest paper with the analysis of a [3D BDDC preconditioner for the cardiac EMI model](http://arxiv.org/abs/2502.07722).
+
+#### MEET ME AT THE UPCOMING CONFERENCES:
+1. [COUPLED PROBLEMS 2025](https://coupled2025.cimne.com/). May 25-28, 2025, Villasimius - Sardinia (Italy).
+2. [Math2Product 2025](https://www.m2p2025.com/M2P2025). June 4-6, 2025, Valencia (Spain).
+3. [Domain Decomposition conference](https://www.dd29.polimi.it/). June 23-27, 2025, Milano (Italy).
+4. [Enumath 2025](https://www.enumath2025.eu/). September 1-5, 2025, Heidelberg (Germany).
+
+#### !! UPCOMING EVENT
+**Intensive Summer School on Computational Cardiology: theory, applications and new trends**, June 11-13 2025 (Milano). 
+
+For info and registration, visit our [website](https://sites.google.com/view/isscc/home?authuser=0).
+
