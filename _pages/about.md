@@ -27,8 +27,10 @@ During my doctoral training, I had the opportunity to coordinate [PhD informal s
 
 <br>
 
-##### NEW ARXIV OUT!
-Checkout our latest paper with the analysis of a [3D BDDC preconditioner for the cardiac EMI model](http://arxiv.org/abs/2502.07722).
+##### NEW PAPER OUT!
+Our latest paper on [Algebraic Multigrid solvers for the cardiac EMI model](https://www.sciencedirect.com/science/article/pii/S0045782525002737) is now out on Computer Methods in Applied Mechanics and Engineering!
+<br>
+Check also our preprint with the analysis of a [3D BDDC preconditioner for the cardiac EMI model](http://arxiv.org/abs/2502.07722).
 
 ##### MEET ME AT THE UPCOMING CONFERENCES:
 1. [COUPLED PROBLEMS 2025](https://coupled2025.cimne.com/). May 25-28, 2025, Villasimius - Sardinia (Italy).
@@ -37,7 +39,6 @@ Checkout our latest paper with the analysis of a [3D BDDC preconditioner for the
 4. [Enumath 2025](https://www.enumath2025.eu/). September 1-5, 2025, Heidelberg (Germany).
 
 ##### !! UPCOMING EVENT
-**Intensive Summer School on Computational Cardiology: theory, applications and new trends**, June 11-13 2025 (Milano). 
+[**Intensive Summer School on Computational Cardiology: theory, applications and new trends**](https://sites.google.com/view/isscc/home?authuser=0), June 11-13 2025 (Milano). 
 
-For info and registration, visit our [website](https://sites.google.com/view/isscc/home?authuser=0).
 
