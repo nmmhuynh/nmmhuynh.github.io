@@ -39,6 +39,6 @@ Check also our preprint with the analysis of a [3D BDDC preconditioner for the c
 4. [Enumath 2025](https://www.enumath2025.eu/). September 1-5, 2025, Heidelberg (Germany).
 
 ##### !! UPCOMING EVENT
-[**Intensive Summer School on Computational Cardiology: theory, applications and new trends**](https://sites.google.com/view/isscc/home?authuser=0), June 11-13 2025 (Milano). 
+**Intensive Summer School on Computational Cardiology: theory, applications and new trends** ([website](https://sites.google.com/view/isscc/home?authuser=0)), June 11-13 2025 (Milano). 
 
 
