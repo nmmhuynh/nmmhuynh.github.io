@@ -11,9 +11,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Researcher (CdR)
+      institution: Universita' degli Studi di Milano (Milano, Italy)
+      year: 2025 - ongoiong
+      description:
+      
     - title: Post doctoral fellow
       institution: Universita' degli Studi di Pavia (Pavia, Italy)
-      year: 2021 - ongoing
+      year: 2021 - 2025
       description:
         - MICROCARD project. Design, theoretical analysis and numerical testing of efficient solvers and preconditioners for cell-by-cell models in cardiac electrophysiology
         - NonSToP project (Nonlinear Solvers Towards Parallel computation). Development of efficient and parallel linear and nonlinear solvers for partial differential equations, with a focus on cardiac biomechanics applications and their performance on parallel computing platforms.
