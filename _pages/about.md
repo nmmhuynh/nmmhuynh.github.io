@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher (CdR) at <a href='https://matematica.unimi.it/'>University of Milano</a>. 
+subtitle: Research fellow (CdR) at <a href='https://matematica.unimi.it/'>University of Milano</a>. 
 
 profile:
   align: right
@@ -17,8 +17,9 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I'm a fixed-term contract research fellow (_contrattista di ricerca_) at the University of Milan. 
-My research primarly focuses on the development of scalable and parallel solvers for application in computational cardiology, but recently I've started to collaborate also on [virtual element discretizations](https://sites.google.com/unimib.it/vemwebsite/home-page?authuser=0) and on numerical schemes for poroelasticity equations -- still both work in progress!
+I'm a research fellow (_contrattista di ricerca_) at the University of Milan. 
+
+My research primarly focuses on the development of scalable and parallel solvers for application in computational cardiology, and recently I've started to collaborate also on [virtual element discretizations](https://sites.google.com/unimib.it/vemwebsite/home-page?authuser=0) and on numerical schemes for poroelasticity equations -- still both work in progress!
 
 Previously, I've been a post-doctoral fellow at the University of Pavia, working on the development of efficient and scalable preconditioners for cardiac electrophysiology at a cellular scale within the [European project MICROCARD](https://microcard.eu/index-en.html).
 
