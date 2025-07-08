@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p style="font-size:10px;">ngoc.huynh@unimi.it</p>
-    <p style="font-size:10px;">Dept. of Mathematics</p>
-    <p style="font-size:10px;">University of Milano</p>
+    <p style="font-size:13px;">Dept. of Mathematics, University of Milano</p>
+    <p style="font-size:11px;">ngoc.huynh@unimi.it</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
