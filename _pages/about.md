@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>ngoc.huynh@unimi.it</p>
-    <p>Dept. of Mathematics</p>
-    <p>University of Milano</p>
+    <p style="font-size:7px;>ngoc.huynh@unimi.it</p>
+    <p style="font-size:7px;>Dept. of Mathematics</p>
+    <p style="font-size:7px;>University of Milano</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -38,8 +38,7 @@ Our latest paper on [Algebraic Multigrid solvers for the cardiac EMI model](http
 Check also our preprint with the analysis of a [3D BDDC preconditioner for the cardiac EMI model](http://arxiv.org/abs/2502.07722).
 
 ##### MEET ME AT THE UPCOMING CONFERENCES:
-3. [Domain Decomposition conference](https://www.dd29.polimi.it/). June 23-27, 2025, Milano (Italy).
-4. [Enumath 2025](https://www.enumath2025.eu/). September 1-5, 2025, Heidelberg (Germany).
-4. [GACM Colloquium 2025](https://colloquia.gacm.de/organisation). September 21-24, 2025, Braunschweig (Germany).
+1. [Enumath 2025](https://www.enumath2025.eu/). September 1-5, 2025, Heidelberg (Germany).
+2. [GACM Colloquium 2025](https://colloquia.gacm.de/organisation). September 21-24, 2025, Braunschweig (Germany).
 
 
