@@ -28,8 +28,6 @@ Besides my daily desk time, I try to actively promote initiatives among young re
 I have organized first-hand four young international workshops, focusing on [cardiac modeling](https://mate.unipv.it/workshop-young-cardiac/) as well as more generic industrial applications ([2022](https://mate.unipv.it/matcomp22/), [2023](https://mate.unipv.it/matcomp23/) and [2024](https://sites.google.com/universitadipavia.it/compmat-spring-workshop/compmat-2024?authuser=0)).
 Recently, we have organized an [Intensive Summer School on Computational Cardiology](https://sites.google.com/view/isscc), where we gathered young and senior researchers from a very broad range of fields -- mathematics, computer science, engineering and biology!
 
-During my doctoral training, I had the opportunity to coordinate [PhD informal seminars](https://euler.unipv.it/seminaridott/) and to take part in bigger organizations such as the VPHi PhD student committee, organizing and chairing [online webinars](https://www.vph-institute.org/webinar.html).
-
 <br>
 
 ##### NEW PAPER OUT!
