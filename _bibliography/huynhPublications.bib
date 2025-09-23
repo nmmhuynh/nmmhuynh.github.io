@@ -13,6 +13,19 @@
     abstract ={We analyze a Balancing Domain Decomposition by Constraints (BDDC) preconditioner for the solution of three dimensional composite Discontinuous Galerkin discretizations of reaction-diffusion systems of ordinary and partial differential equations arising in cardiac cell-by-cell models like the Extracellular space, Membrane and Intracellular space (EMI) Model. These microscopic models are essential for the understanding of events in aging and structurally diseased hearts which macroscopic models relying on homogenized descriptions of the cardiac tissue, like Monodomain and Bidomain models, fail to adequately represent. The modeling of each individual cardiac cell results in discontinuous global solutions across cell boundaries, requiring the careful construction of dual and primal spaces for the BDDC preconditioner. We provide a scalable condition number bound for the precondition operator and validate the theoretical results with extensive numerical experiments.}
 }
 
+@article{abdelhamid2025adaptive,
+	title = {Adaptive BDDC preconditioners for the bidomain model on unstructured ventricular finite element meshes},
+	author = {Abdelhamid, T and Huynh, NMM and Zampini, S and Chen, R and Pavarino, LF and Scacchi, S},
+	journal = {Comp. Meth. Appl. Math. Engrg.},
+	volume = {447},
+	pages = {118366},
+	year = {2025},
+	doi = {https://doi.org/10.1016/j.cma.2025.118366},
+	pdf = {https://www.sciencedirect.com/science/article/pii/S0045782525006383/pdfft?md5=d3daef24502395fa0619899b652ca1d0&pid=1-s2.0-S0045782525006383-main.pdf},
+	bibtex_show ={true},
+	abstract = {This study aims to develop and numerically analyze adaptive balancing domain decomposition by constraints (BDDC) preconditioners for unstructured finite element discretizations of the Bidomain model of electrocardiology on patient-specific ventricular geometries. The Bidomain model, one of the most comprehensive mathematical representations of the cardiac bioelectrical activity, consists of a system of an elliptic and a parabolic partial differential equation of reaction-diffusion type. These equations govern the propagation of electrical potentials in the cardiac tissue. They are strongly coupled with a stiff system of ordinary differential equations that describe the evolution of ionic currents across the cardiac cell membrane. Minimizing the computational cost of simulating this bioelectrical activity requires the development of efficient and scalable preconditioners for the linear systems resulting from the model’s discretization. BDDC preconditioners are nonoverlapping domain decomposition algorithms that consist of the solution of concurrent local problems on each subdomain plus a global coarse problem, whose unknowns are vertex and edge/face average values. Adaptive BDDC preconditioners represent an evolution of standard BDDC methods, where the coarse problem is enriched by adding further constraints obtained by solving suitable generalized eigenvalue problems on subdomain edges and faces. The novelty of the present study is to analyze the effectiveness of such adaptive BDDC methods for unstructured finite element discretizations of the Bidomain model on patient-specific left ventricular geometries, using modern high-performance computing parallel architectures. Different refined left ventricular meshes were generated, each incorporating fiber data. The results highlight the efficiency and accuracy of the implemented preconditioners, confirming their optimality and scalability on CPUs architectures.}
+}
+
 @article{centofanti2025amg,
 	title	 ={Parallel Algebraic Multigrid solvers for composite Discontinuous Galerkin discretization of the cardiac EMI model in heterogeneous media},
 	author   ={Centofanti, E and Huynh, NMM and Pavarino, LF and Scacchi, S},
