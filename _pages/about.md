@@ -30,12 +30,11 @@ Recently, we have organized an [Intensive Summer School on Computational Cardiol
 <br>
 
 ##### NEW PAPER OUT!
-Our latest paper on [Algebraic Multigrid solvers for the cardiac EMI model](https://www.sciencedirect.com/science/article/pii/S0045782525002737) is now out on Computer Methods in Applied Mechanics and Engineering!
+Our latest paper on [Adaptive BDDC solver for unstructured left ventricular mesh](https://www.sciencedirect.com/science/article/pii/S0045782525006383) is now out on Computer Methods in Applied Mechanics and Engineering!
 <br>
 Check also our preprint with the analysis of a [3D BDDC preconditioner for the cardiac EMI model](http://arxiv.org/abs/2502.07722).
 
 ##### MEET ME AT THE UPCOMING CONFERENCES:
-1. [Enumath 2025](https://www.enumath2025.eu/). September 1-5, 2025, Heidelberg (Germany).
-2. [GACM Colloquium 2025](https://colloquia.gacm.de/organisation). September 21-24, 2025, Braunschweig (Germany).
+1. [WCCM-ECCOMAS 2026](https://wccm-eccomas2026.org/). July 19-24, 2026, Munich (Germany).
 
 
