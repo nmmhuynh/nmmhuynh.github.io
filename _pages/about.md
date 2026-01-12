@@ -16,25 +16,28 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I'm a research fellow (_contrattista di ricerca_) at the University of Milan. 
+I am a Research Fellow (_contrattista di ricerca_) at the **University of Milan**.
 
-My research primarly focuses on the development of scalable and parallel solvers for application in computational cardiology, and recently I've started to collaborate also on [virtual element discretizations](https://sites.google.com/unimib.it/vemwebsite/home-page?authuser=0) and on numerical schemes for poroelasticity equations -- still both work in progress!
+My research is in **numerical analysis and scientific computing**, with a focus on **scalable and parallel solvers** for applications in computational cardiology and related multiphysics problems.
 
-Previously, I've been a post-doctoral fellow at the University of Pavia, working on the development of efficient and scalable preconditioners for cardiac electrophysiology at a cellular scale within the [European project MICROCARD](https://microcard.eu/index-en.html).
+## Research interests
+- Domain Decomposition and multigrid preconditioners
+- Computational cardiac electrophysiology
+- [Virtual element methods](https://sites.google.com/unimib.it/vemwebsite/home-page?authuser=0) and is application to cardiac electrophysiology models
+- Finite element analysis of mixed formulation of the generalized porous media equation
 
-Besides my daily desk time, I try to actively promote initiatives among young researchers, aiming to build a fruitful network for the next generation of scientists.
+I am also actively involved in initiatives for early-career researchers, with the aim of fostering collaboration and building a strong international network.
 
-I have organized first-hand four young international workshops, focusing on [cardiac modeling](https://mate.unipv.it/workshop-young-cardiac/) as well as more generic industrial applications ([2022](https://mate.unipv.it/matcomp22/), [2023](https://mate.unipv.it/matcomp23/) and [2024](https://sites.google.com/universitadipavia.it/compmat-spring-workshop/compmat-2024?authuser=0)).
-Recently, we have organized an [Intensive Summer School on Computational Cardiology](https://sites.google.com/view/isscc), where we gathered young and senior researchers from a very broad range of fields -- mathematics, computer science, engineering and biology!
+I have organized several **international workshops for young researchers**, focusing on _[cardiac modeling](https://mate.unipv.it/workshop-young-cardiac/)_ and on broader topics in _industrial and applied mathematics_ ([2022](https://mate.unipv.it/matcomp22/), [2023](https://mate.unipv.it/matcomp23/), [2024](https://sites.google.com/universitadipavia.it/compmat-spring-workshop/compmat-2024?authuser=0)).
+The latest has been the _[Intensive Summer School on Computational Cardiology](https://sites.google.com/view/isscc)_.
 
 <br>
 
 ##### NEW PAPER OUT!
-Our latest paper on [Adaptive BDDC solver for unstructured left ventricular mesh](https://www.sciencedirect.com/science/article/pii/S0045782525006383) is now out on Computer Methods in Applied Mechanics and Engineering!
-<br>
-Check also our preprint with the analysis of a [3D BDDC preconditioner for the cardiac EMI model](http://arxiv.org/abs/2502.07722).
+Our latest paper on the analysis of a [3D BDDC preconditioner for the cardiac EMI model](http://arxiv.org/abs/2502.07722) has been accepted on SIAM Journal of Scientific Computing!
 
 ##### MEET ME AT THE UPCOMING CONFERENCES:
-1. [WCCM-ECCOMAS 2026](https://wccm-eccomas2026.org/). July 19-24, 2026, Munich (Germany).
+1. International Workshop on Numerical and Learning methods for PDEs. February 9-13, 2026, Sanya (China).
+2. [WCCM-ECCOMAS 2026](https://wccm-eccomas2026.org/). July 19-24, 2026, Munich (Germany).
 
 
