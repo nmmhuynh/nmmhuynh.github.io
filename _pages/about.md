@@ -18,18 +18,18 @@ social: false # includes social icons at the bottom of the page
 ---
 I am a Research Fellow (_contrattista di ricerca_) at the **University of Milan**.
 
-My research is in **numerical analysis and scientific computing**, with a focus on **scalable and parallel solvers** for applications in computational cardiology and related multiphysics problems.
+My research interests are in **numerical analysis and scientific computing**, with a focus on **scalable and parallel solvers** for applications in computational cardiology and related multiphysics problems.
 
-## Research interests
-- Domain Decomposition and multigrid preconditioners
+### Research interests
+- [Domain Decomposition](https://www.ddm.org/) and multigrid preconditioners
 - Computational cardiac electrophysiology
 - [Virtual element methods](https://sites.google.com/unimib.it/vemwebsite/home-page?authuser=0) and is application to cardiac electrophysiology models
 - Finite element analysis of mixed formulation of the generalized porous media equation
 
 I am also actively involved in initiatives for early-career researchers, with the aim of fostering collaboration and building a strong international network.
 
-I have organized several **international workshops for young researchers**, focusing on _[cardiac modeling](https://mate.unipv.it/workshop-young-cardiac/)_ and on broader topics in _industrial and applied mathematics_ ([2022](https://mate.unipv.it/matcomp22/), [2023](https://mate.unipv.it/matcomp23/), [2024](https://sites.google.com/universitadipavia.it/compmat-spring-workshop/compmat-2024?authuser=0)).
-The latest has been the _[Intensive Summer School on Computational Cardiology](https://sites.google.com/view/isscc)_.
+I have organized several international workshops for young researchers, focusing on _[cardiac modeling](https://mate.unipv.it/workshop-young-cardiac/)_ and on broader topics in _industrial and applied mathematics_ ([2022](https://mate.unipv.it/matcomp22/), [2023](https://mate.unipv.it/matcomp23/), [2024](https://sites.google.com/universitadipavia.it/compmat-spring-workshop/compmat-2024?authuser=0)).
+The latest event was the _[Intensive Summer School on Computational Cardiology](https://sites.google.com/view/isscc)_.
 
 <br>
 
