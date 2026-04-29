@@ -34,10 +34,9 @@ The latest event was the _[Intensive Summer School on Computational Cardiology](
 <br>
 
 ##### NEW PAPER OUT!
-Our latest paper on the analysis of a [3D BDDC preconditioner for the cardiac EMI model](http://arxiv.org/abs/2502.07722) has been accepted on SIAM Journal of Scientific Computing!
+Our latest paper on the analysis of a 3D BDDC preconditioner for the cardiac EMI model is finally available on [SIAM Journal of Scientific Computing](https://epubs.siam.org/eprint/4CIFZRCXAQ3VEVRTWSAI/full)!
 
 ##### MEET ME AT THE UPCOMING CONFERENCES:
-1. International Workshop on Numerical and Learning methods for PDEs. February 9-13, 2026, Sanya (China).
-2. [WCCM-ECCOMAS 2026](https://wccm-eccomas2026.org/). July 19-24, 2026, Munich (Germany).
+1. [WCCM-ECCOMAS 2026](https://wccm-eccomas2026.org/). July 19-24, 2026, Munich (Germany).
 
 
